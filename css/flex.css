@@ -1,0 +1,5 @@
+.box_content, .posts_like {
+	display: flex;
+	justify-content: space-between;
+}
+
